@@ -1,5 +1,6 @@
 # github-battle
-This app allows users to browse popular github repositories. It also allows users to input two github profiles to see which one is more popular. 
+This app allows users to browse and filter popular Github repositories by language. This app also features a <b>Battle</b> section that allows users to submit any two Github profiles and returns a score for each profile based on popularity. 
+
 Available in light and dark themes.
 
-Built with native JS classes and component lifecycle methods.
+Built using native JS classes/functions and React lifecycle events.
